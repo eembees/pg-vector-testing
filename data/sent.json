@@ -399,6 +399,370 @@
         {
             "id": "100",
             "text": "Lactose intolerance is suspected and confirmed with a hydrogen breath test."
+        },
+        {
+            "id": "110",
+            "text": "Patient presents with recurrent episodes of vertigo and nausea."
+        },
+        {
+            "id": "111",
+            "text": "Dix-Hallpike maneuver elicits nystagmus consistent with benign paroxysmal positional vertigo."
+        },
+        {
+            "id": "112",
+            "text": "Patient complains of abdominal pain relieved by defecation and associated with changes in bowel habits."
+        },
+        {
+            "id": "113",
+            "text": "Rome IV criteria are met for the diagnosis of irritable bowel syndrome."
+        },
+        {
+            "id": "114",
+            "text": "Patient presents with a history of chronic obstructive pulmonary disease."
+        },
+        {
+            "id": "115",
+            "text": "Pulmonary function tests reveal decreased forced expiratory volume in one second (FEV1) and FEV1/forced vital capacity ratio."
+        },
+        {
+            "id": "116",
+            "text": "Patient reports swelling and tenderness in multiple joints bilaterally."
+        },
+        {
+            "id": "117",
+            "text": "ANA titer is elevated with a speckled pattern, suggestive of systemic lupus erythematosus."
+        },
+        {
+            "id": "118",
+            "text": "Patient presents with sudden onset severe abdominal pain and vomiting."
+        },
+        {
+            "id": "119",
+            "text": "Abdominal CT scan demonstrates a small bowel obstruction with transition point."
+        },
+        {
+            "id": "120",
+            "text": "Patient complains of gradual onset dyspnea on exertion and dry cough."
+        },
+        {
+            "id": "121",
+            "text": "High-resolution CT scan shows bilateral ground-glass opacities and reticular pattern consistent with idiopathic pulmonary fibrosis."
+        },
+        {
+            "id": "122",
+            "text": "Patient presents with itching and burning rash in a linear distribution."
+        },
+        {
+            "id": "123",
+            "text": "Skin biopsy confirms the diagnosis of dermatitis herpetiformis."
+        },
+        {
+            "id": "124",
+            "text": "Patient reports gradual onset weakness and muscle wasting in the proximal limbs."
+        },
+        {
+            "id": "125",
+            "text": "Electromyography reveals myopathic changes consistent with dermatomyositis."
+        },
+        {
+            "id": "126",
+            "text": "Patient presents with recurrent episodes of severe abdominal pain and diarrhea."
+        },
+        {
+            "id": "127",
+            "text": "Colonoscopy reveals skip lesions and cobblestone appearance consistent with Crohn's disease."
+        },
+        {
+            "id": "128",
+            "text": "Patient complains of persistent cough with blood-streaked sputum."
+        },
+        {
+            "id": "129",
+            "text": "CT scan demonstrates a solitary pulmonary nodule in the right upper lobe."
+        },
+        {
+            "id": "130",
+            "text": "Patient presents with swollen, tender, and warm joints."
+        },
+        {
+            "id": "131",
+            "text": "Synovial fluid analysis shows elevated leukocyte count with negative crystals, suggestive of septic arthritis."
+        },
+        {
+            "id": "132",
+            "text": "Patient reports recurrent episodes of severe, pulsating headaches."
+        },
+        {
+            "id": "133",
+            "text": "MRI reveals a pituitary adenoma compressing the optic chiasm."
+        },
+        {
+            "id": "134",
+            "text": "Patient presents with abdominal pain and distension."
+        },
+        {
+            "id": "135",
+            "text": "Abdominal ultrasound shows ascites and hepatomegaly."
+        },
+        {
+            "id": "136",
+            "text": "Patient complains of difficulty walking and frequent falls."
+        },
+        {
+            "id": "137",
+            "text": "MRI of the spine demonstrates cervical spondylosis with spinal cord compression."
+        },
+        {
+            "id": "138",
+            "text": "Patient presents with pain and swelling in the calf."
+        },
+        {
+            "id": "139",
+            "text": "Doppler ultrasound confirms superficial thrombophlebitis."
+        },
+        {
+            "id": "140",
+            "text": "Patient reports chronic dryness and irritation of the eyes."
+        },
+        {
+            "id": "141",
+            "text": "Schirmer's test reveals decreased tear production, consistent with Sjogren's syndrome."
+        },
+        {
+            "id": "142",
+            "text": "Patient presents with recurrent, painful oral ulcers."
+        },
+        {
+            "id": "143",
+            "text": "Serologic testing is positive for antibodies to nuclear antigens."
+        },
+        {
+            "id": "144",
+            "text": "Patient complains of chronic fatigue and muscle aches."
+        },
+        {
+            "id": "145",
+            "text": "Fibromyalgia is suspected based on tender points and widespread pain."
+        },
+        {
+            "id": "146",
+            "text": "Patient presents with hoarseness and difficulty swallowing."
+        },
+        {
+            "id": "147",
+            "text": "Laryngoscopy reveals vocal cord nodules and esophageal strictures."
+        },
+        {
+            "id": "148",
+            "text": "Patient reports episodes of blurred vision and double vision."
+        },
+        {
+            "id": "149",
+            "text": "MRI of the brain shows demyelinating lesions consistent with multiple sclerosis."
+        },
+        {
+            "id": "150",
+            "text": "Patient presents with excessive thirst and frequent urination."
+        },
+        {
+            "id": "151",
+            "text": "Serum osmolality is elevated with low urine osmolality, suggestive of diabetes insipidus."
+        },
+        {
+            "id": "152",
+            "text": "Patient complains of pain and swelling in the knee joint."
+        },
+        {
+            "id": "153",
+            "text": "Knee aspiration reveals turbid fluid with elevated leukocyte count, suggestive of septic arthritis."
+        },
+        {
+            "id": "154",
+            "text": "Patient presents with chronic cough and wheezing."
+        },
+        {
+            "id": "155",
+            "text": "Spirometry shows reversible airflow obstruction consistent with asthma."
+        },
+        {
+            "id": "156",
+            "text": "Patient reports frequent urination and nocturnal enuresis."
+        },
+        {
+            "id": "157",
+            "text": "Urodynamic studies reveal detrusor instability and impaired bladder emptying."
+        },
+        {
+            "id": "158",
+            "text": "Patient presents with a history of recurrent kidney stones."
+        },
+        {
+            "id": "159",
+            "text": "24-hour urine collection shows elevated levels of calcium oxalate and uric acid."
+        },
+        {
+            "id": "160",
+            "text": "Patient complains of persistent epigastric pain and bloating."
+        },
+        {
+            "id": "161",
+            "text": "Upper endoscopy reveals erosive gastritis and duodenal ulcers."
+        },
+        {
+            "id": "162",
+            "text": "Patient presents with a history of multiple syncopal episodes."
+        },
+        {
+            "id": "163",
+            "text": "Holter monitor shows episodes of sinus bradycardia and pauses."
+        },
+        {
+            "id": "164",
+            "text": "Patient reports swelling and pain in the fingers and toes."
+        },
+        {
+            "id": "165",
+            "text": "Capillaroscopy reveals dilated and tortuous nailfold capillaries, suggestive of systemic sclerosis."
+        },
+        {
+            "id": "166",
+            "text": "Patient presents with fever, sore throat, and cervical lymphadenopathy."
+        },
+        {
+            "id": "167",
+            "text": "Monospot test is positive for Epstein-Barr virus."
+        },
+        {
+            "id": "168",
+            "text": "Patient complains of joint stiffness and limited range of motion."
+        },
+        {
+            "id": "169",
+            "text": "X-ray shows joint space narrowing and osteophyte formation consistent with osteoarthritis."
+        },
+        {
+            "id": "170",
+            "text": "Patient presents with sudden onset severe abdominal pain and hematemesis."
+        },
+        {
+            "id": "171",
+            "text": "Upper GI endoscopy reveals esophageal varices with stigmata of recent bleeding."
+        },
+        {
+            "id": "172",
+            "text": "Patient reports progressive hearing loss and tinnitus."
+        },
+        {
+            "id": "173",
+            "text": "Audiogram shows bilateral sensorineural hearing loss."
+        },
+        {
+            "id": "174",
+            "text": "Patient presents with chest pain and shortness of breath."
+        },
+        {
+            "id": "175",
+            "text": "Coronary angiography reveals 80% stenosis of the left anterior descending artery."
+        },
+        {
+            "id": "176",
+            "text": "Patient complains of difficulty swallowing solid foods."
+        },
+        {
+            "id": "177",
+            "text": "Barium swallow shows esophageal strictures and narrowing."
+        },
+        {
+            "id": "178",
+            "text": "Patient presents with recurrent, painful mouth ulcers."
+        },
+        {
+            "id": "179",
+            "text": "CBC reveals pancytopenia with hypocellular bone marrow, suggestive of aplastic anemia."
+        },
+        {
+            "id": "180",
+            "text": "Patient reports chronic joint pain and morning stiffness."
+        },
+        {
+            "id": "181",
+            "text": "HLA-B27 testing is positive, consistent with ankylosing spondylitis."
+        },
+        {
+            "id": "182",
+            "text": "Patient presents with a history of recurrent seizures."
+        },
+        {
+            "id": "183",
+            "text": "EEG shows epileptiform discharges originating from the left temporal lobe."
+        },
+        {
+            "id": "184",
+            "text": "Patient complains of abdominal discomfort and bloating after meals."
+        },
+        {
+            "id": "185",
+            "text": "Gastric emptying study reveals delayed gastric emptying, suggestive of gastroparesis."
+        },
+        {
+            "id": "186",
+            "text": "Patient presents with chronic, non-healing wounds on the lower extremities."
+        },
+        {
+            "id": "187",
+            "text": "Doppler ultrasound shows arterial insufficiency with ankle-brachial index < 0.9."
+        },
+        {
+            "id": "188",
+            "text": "Patient reports persistent cough and wheezing exacerbated by cold air."
+        },
+        {
+            "id": "189",
+            "text": "Pulmonary function tests demonstrate reversible airflow obstruction consistent with allergic asthma."
+        },
+        {
+            "id": "190",
+            "text": "Patient presents with recurrent, painful swelling of the parotid glands."
+        },
+        {
+            "id": "191",
+            "text": "Salivary gland biopsy reveals lymphocytic infiltration consistent with Sjogren's syndrome."
+        },
+        {
+            "id": "192",
+            "text": "Patient complains of chronic abdominal pain and diarrhea."
+        },
+        {
+            "id": "193",
+            "text": "Stool studies are positive for Giardia lamblia infection."
+        },
+        {
+            "id": "194",
+            "text": "Patient presents with numbness and tingling in the hands and feet."
+        },
+        {
+            "id": "195",
+            "text": "Nerve conduction studies show peripheral neuropathy with axonal involvement."
+        },
+        {
+            "id": "196",
+            "text": "Patient reports recurrent, painful oral ulcers and genital lesions."
+        },
+        {
+            "id": "197",
+            "text": "PCR testing confirms herpes simplex virus type 1 infection."
+        },
+        {
+            "id": "198",
+            "text": "Patient presents with difficulty initiating and maintaining sleep."
+        },
+        {
+            "id": "199",
+            "text": "Polysomnography shows decreased total sleep time and frequent arousals."
+        },
+        {
+            "id": "200",
+            "text": "Patient complains of severe, throbbing headaches associated with nausea and vomiting."
         }
     ]
 }
