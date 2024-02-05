@@ -1,0 +1,404 @@
+{
+    "sentences": [
+        {
+            "id": "1",
+            "text": "Patient presents with fever, chills, and body aches."
+        },
+        {
+            "id": "2",
+            "text": "Examination reveals tenderness in the right lower quadrant."
+        },
+        {
+            "id": "3",
+            "text": "Blood pressure is elevated at 160/100 mmHg."
+        },
+        {
+            "id": "4",
+            "text": "Lab results indicate elevated levels of C-reactive protein."
+        },
+        {
+            "id": "5",
+            "text": "X-ray shows bilateral infiltrates consistent with pneumonia."
+        },
+        {
+            "id": "6",
+            "text": "Patient complains of persistent cough with yellow-green sputum."
+        },
+        {
+            "id": "7",
+            "text": "Auscultation reveals diminished breath sounds in the left lung base."
+        },
+        {
+            "id": "8",
+            "text": "ECG shows sinus bradycardia with occasional premature ventricular contractions."
+        },
+        {
+            "id": "9",
+            "text": "MRI reveals a herniated disc at the L4-L5 level."
+        },
+        {
+            "id": "10",
+            "text": "Patient reports sudden onset of severe headache with photophobia."
+        },
+        {
+            "id": "11",
+            "text": "CT scan demonstrates a subarachnoid hemorrhage."
+        },
+        {
+            "id": "12",
+            "text": "Blood glucose level is 300 mg/dL, consistent with uncontrolled diabetes."
+        },
+        {
+            "id": "13",
+            "text": "Fundoscopic exam reveals papilledema."
+        },
+        {
+            "id": "14",
+            "text": "Patient presents with sudden onset weakness and slurred speech."
+        },
+        {
+            "id": "15",
+            "text": "Neurological exam shows right-sided hemiparesis."
+        },
+        {
+            "id": "16",
+            "text": "MRI confirms acute ischemic stroke in the left middle cerebral artery territory."
+        },
+        {
+            "id": "17",
+            "text": "Patient reports episodes of chest pain radiating to the left arm."
+        },
+        {
+            "id": "18",
+            "text": "Troponin levels are elevated, suggestive of myocardial infarction."
+        },
+        {
+            "id": "19",
+            "text": "Echocardiogram shows decreased ejection fraction of 35%."
+        },
+        {
+            "id": "20",
+            "text": "Patient presents with abdominal pain and nausea after meals."
+        },
+        {
+            "id": "21",
+            "text": "Ultrasound reveals cholelithiasis with gallbladder wall thickening."
+        },
+        {
+            "id": "22",
+            "text": "Blood tests show elevated liver enzymes."
+        },
+        {
+            "id": "23",
+            "text": "Patient complains of chronic joint pain and stiffness."
+        },
+        {
+            "id": "24",
+            "text": "Examination reveals bilateral swelling and tenderness in the wrists."
+        },
+        {
+            "id": "25",
+            "text": "X-ray shows erosive changes consistent with rheumatoid arthritis."
+        },
+        {
+            "id": "26",
+            "text": "Patient presents with a rash on the trunk and extremities."
+        },
+        {
+            "id": "27",
+            "text": "Skin biopsy confirms a diagnosis of psoriasis."
+        },
+        {
+            "id": "28",
+            "text": "Patient reports frequent episodes of heartburn and regurgitation."
+        },
+        {
+            "id": "29",
+            "text": "Endoscopy reveals esophagitis with erosive changes."
+        },
+        {
+            "id": "30",
+            "text": "Patient presents with polyuria and polydipsia."
+        },
+        {
+            "id": "31",
+            "text": "Urinalysis shows glycosuria and ketonuria."
+        },
+        {
+            "id": "32",
+            "text": "HbA1c level is elevated at 10.2%, indicating poor glycemic control."
+        },
+        {
+            "id": "33",
+            "text": "Patient complains of blurred vision and difficulty focusing."
+        },
+        {
+            "id": "34",
+            "text": "Ophthalmologic exam reveals diabetic retinopathy."
+        },
+        {
+            "id": "35",
+            "text": "Patient reports persistent fatigue and weight gain."
+        },
+        {
+            "id": "36",
+            "text": "Thyroid function tests indicate hypothyroidism."
+        },
+        {
+            "id": "37",
+            "text": "Patient presents with a sore throat and swollen lymph nodes."
+        },
+        {
+            "id": "38",
+            "text": "Rapid strep test is positive for Group A Streptococcus."
+        },
+        {
+            "id": "39",
+            "text": "Patient reports intermittent diarrhea with blood and mucus."
+        },
+        {
+            "id": "40",
+            "text": "Stool sample tests positive for Clostridium difficile toxin."
+        },
+        {
+            "id": "41",
+            "text": "Patient presents with generalized itching and jaundice."
+        },
+        {
+            "id": "42",
+            "text": "Liver function tests show elevated bilirubin levels."
+        },
+        {
+            "id": "43",
+            "text": "Patient complains of dyspnea on exertion and orthopnea."
+        },
+        {
+            "id": "44",
+            "text": "Chest X-ray reveals cardiomegaly with pulmonary edema."
+        },
+        {
+            "id": "45",
+            "text": "Patient reports frequent urination and nocturia."
+        },
+        {
+            "id": "46",
+            "text": "Urinalysis indicates proteinuria and microscopic hematuria."
+        },
+        {
+            "id": "47",
+            "text": "Renal ultrasound shows bilateral renal artery stenosis."
+        },
+        {
+            "id": "48",
+            "text": "Patient presents with abdominal distension and ascites."
+        },
+        {
+            "id": "49",
+            "text": "CT scan demonstrates cirrhotic liver with portal hypertension."
+        },
+        {
+            "id": "50",
+            "text": "Patient reports episodes of anxiety and panic attacks."
+        },
+        {
+            "id": "51",
+            "text": "Mental status exam reveals obsessive-compulsive tendencies."
+        },
+        {
+            "id": "52",
+            "text": "Patient presents with severe abdominal pain and rebound tenderness."
+        },
+        {
+            "id": "53",
+            "text": "CT scan shows acute appendicitis with peri-appendiceal fluid."
+        },
+        {
+            "id": "54",
+            "text": "Patient complains of chronic low back pain radiating down the leg."
+        },
+        {
+            "id": "55",
+            "text": "Physical exam reveals decreased sensation in the L5 dermatome."
+        },
+        {
+            "id": "56",
+            "text": "MRI confirms lumbar disc herniation compressing the L5 nerve root."
+        },
+        {
+            "id": "57",
+            "text": "Patient presents with sudden onset dyspnea and pleuritic chest pain."
+        },
+        {
+            "id": "58",
+            "text": "CT pulmonary angiography reveals a pulmonary embolism in the right main pulmonary artery."
+        },
+        {
+            "id": "59",
+            "text": "Patient reports recurrent urinary tract infections."
+        },
+        {
+            "id": "60",
+            "text": "Urinalysis shows pyuria and bacteriuria."
+        },
+        {
+            "id": "61",
+            "text": "Renal ultrasound demonstrates bilateral hydronephrosis."
+        },
+        {
+            "id": "62",
+            "text": "Patient presents with a productive cough and hemoptysis."
+        },
+        {
+            "id": "63",
+            "text": "Chest X-ray shows cavitary lesions consistent with tuberculosis."
+        },
+        {
+            "id": "64",
+            "text": "Patient complains of pain and stiffness in the hands and feet."
+        },
+        {
+            "id": "65",
+            "text": "Rheumatoid factor is positive with elevated anti-CCP antibodies."
+        },
+        {
+            "id": "66",
+            "text": "X-ray reveals erosive changes and joint space narrowing in the hands."
+        },
+        {
+            "id": "67",
+            "text": "Patient presents with epigastric pain and melena."
+        },
+        {
+            "id": "68",
+            "text": "Upper endoscopy reveals a duodenal ulcer with active bleeding."
+        },
+        {
+            "id": "69",
+            "text": "Patient reports muscle weakness and easy fatigability."
+        },
+        {
+            "id": "70",
+            "text": "Creatine kinase levels are elevated, suggestive of myositis."
+        },
+        {
+            "id": "71",
+            "text": "EMG shows myopathic changes consistent with polymyositis."
+        },
+        {
+            "id": "72",
+            "text": "Patient presents with recurrent fevers and night sweats."
+        },
+        {
+            "id": "73",
+            "text": "Tuberculin skin test is positive with a 20 mm induration."
+        },
+        {
+            "id": "74",
+            "text": "Chest X-ray shows bilateral upper lobe infiltrates."
+        },
+        {
+            "id": "75",
+            "text": "Patient complains of burning sensation and paresthesias in the feet."
+        },
+        {
+            "id": "76",
+            "text": "Nerve conduction studies reveal peripheral neuropathy."
+        },
+        {
+            "id": "77",
+            "text": "Patient presents with a history of multiple syncopal episodes."
+        },
+        {
+            "id": "78",
+            "text": "Holter monitor shows episodes of sinus arrest."
+        },
+        {
+            "id": "79",
+            "text": "Patient reports pain and stiffness in the shoulders and hips."
+        },
+        {
+            "id": "80",
+            "text": "ESR and CRP levels are elevated, suggestive of polymyalgia rheumatica."
+        },
+        {
+            "id": "81",
+            "text": "MRI of the brain shows multiple enhancing lesions."
+        },
+        {
+            "id": "82",
+            "text": "Lumbar puncture reveals oligoclonal bands in the cerebrospinal fluid."
+        },
+        {
+            "id": "83",
+            "text": "Patient presents with recurrent oral ulcers and genital lesions."
+        },
+        {
+            "id": "84",
+            "text": "Serologic testing is positive for herpes simplex virus type 2."
+        },
+        {
+            "id": "85",
+            "text": "Patient complains of difficulty initiating and maintaining sleep."
+        },
+        {
+            "id": "86",
+            "text": "Polysomnography demonstrates frequent awakenings and reduced REM sleep."
+        },
+        {
+            "id": "87",
+            "text": "Patient presents with abdominal discomfort and bloating."
+        },
+        {
+            "id": "88",
+            "text": "Colonoscopy reveals skip lesions and aphthous ulcers in the terminal ileum."
+        },
+        {
+            "id": "89",
+            "text": "Patient reports gradual onset dysphagia to solids and liquids."
+        },
+        {
+            "id": "90",
+            "text": "Barium swallow shows a dilated esophagus with tertiary contractions."
+        },
+        {
+            "id": "91",
+            "text": "Patient presents with decreased appetite and unintentional weight loss."
+        },
+        {
+            "id": "92",
+            "text": "CBC reveals microcytic hypochromic anemia with a low ferritin level."
+        },
+        {
+            "id": "93",
+            "text": "Patient complains of pain and stiffness in the temporomandibular joint."
+        },
+        {
+            "id": "94",
+            "text": "Examination reveals crepitus and limited range of motion in the jaw."
+        },
+        {
+            "id": "95",
+            "text": "Patient reports recurrent headaches associated with visual disturbances."
+        },
+        {
+            "id": "96",
+            "text": "Ophthalmologic exam shows optic disc swelling and visual field defects."
+        },
+        {
+            "id": "97",
+            "text": "Patient presents with swelling and tenderness in the calf."
+        },
+        {
+            "id": "98",
+            "text": "Doppler ultrasound confirms deep vein thrombosis in the left lower extremity."
+        },
+        {
+            "id": "99",
+            "text": "Patient complains of abdominal cramping and diarrhea after dairy consumption."
+        },
+        {
+            "id": "100",
+            "text": "Lactose intolerance is suspected and confirmed with a hydrogen breath test."
+        }
+    ]
+}

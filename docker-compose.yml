@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  # Define the PostgreSQL service
+  db:
+    image: pgvector/pgvector:pg16
+    restart: always
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: verygoodpassword1!
+    volumes:
+      - ./init-scripts:/docker-entrypoint-initdb.d
+  # Define the Python application service
+  web:
+    build: .
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: verygoodpassword1!
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db

@@ -1,0 +1,108 @@
+1. Patient presents with fever, chills, and body aches.
+2. Examination reveals tenderness in the right lower quadrant.
+3. Blood pressure is elevated at 160/100 mmHg.
+4. Lab results indicate elevated levels of C-reactive protein.
+5. X-ray shows bilateral infiltrates consistent with pneumonia.
+6. Patient complains of persistent cough with yellow-green sputum.
+7. Auscultation reveals diminished breath sounds in the left lung base.
+8. ECG shows sinus bradycardia with occasional premature ventricular contractions.
+9. MRI reveals a herniated disc at the L4-L5 level.
+10. Patient reports sudden onset of severe headache with photophobia.
+11. CT scan demonstrates a subarachnoid hemorrhage.
+12. Blood glucose level is 300 mg/dL, consistent with uncontrolled diabetes.
+13. Fundoscopic exam reveals papilledema.
+14. Patient presents with sudden onset weakness and slurred speech.
+15. Neurological exam shows right-sided hemiparesis.
+16. MRI confirms acute ischemic stroke in the left middle cerebral artery territory.
+17. Patient reports episodes of chest pain radiating to the left arm.
+18. Troponin levels are elevated, suggestive of myocardial infarction.
+19. Echocardiogram shows decreased ejection fraction of 35%.
+20. Patient presents with abdominal pain and nausea after meals.
+21. Ultrasound reveals cholelithiasis with gallbladder wall thickening.
+22. Blood tests show elevated liver enzymes.
+23. Patient complains of chronic joint pain and stiffness.
+24. Examination reveals bilateral swelling and tenderness in the wrists.
+25. X-ray shows erosive changes consistent with rheumatoid arthritis.
+26. Patient presents with a rash on the trunk and extremities.
+27. Skin biopsy confirms a diagnosis of psoriasis.
+28. Patient reports frequent episodes of heartburn and regurgitation.
+29. Endoscopy reveals esophagitis with erosive changes.
+30. Patient presents with polyuria and polydipsia.
+31. Urinalysis shows glycosuria and ketonuria.
+32. HbA1c level is elevated at 10.2%, indicating poor glycemic control.
+33. Patient complains of blurred vision and difficulty focusing.
+34. Ophthalmologic exam reveals diabetic retinopathy.
+35. Patient reports persistent fatigue and weight gain.
+36. Thyroid function tests indicate hypothyroidism.
+37. Patient presents with a sore throat and swollen lymph nodes.
+38. Rapid strep test is positive for Group A Streptococcus.
+39. Patient reports intermittent diarrhea with blood and mucus.
+40. Stool sample tests positive for Clostridium difficile toxin.
+41. Patient presents with generalized itching and jaundice.
+42. Liver function tests show elevated bilirubin levels.
+43. Patient complains of dyspnea on exertion and orthopnea.
+44. Chest X-ray reveals cardiomegaly with pulmonary edema.
+45. Patient reports frequent urination and nocturia.
+46. Urinalysis indicates proteinuria and microscopic hematuria.
+47. Renal ultrasound shows bilateral renal artery stenosis.
+48. Patient presents with abdominal distension and ascites.
+49. CT scan demonstrates cirrhotic liver with portal hypertension.
+50. Patient reports episodes of anxiety and panic attacks.
+51. Mental status exam reveals obsessive-compulsive tendencies.
+52. Patient presents with severe abdominal pain and rebound tenderness.
+53. CT scan shows acute appendicitis with peri-appendiceal fluid.
+54. Patient complains of chronic low back pain radiating down the leg.
+55. Physical exam reveals decreased sensation in the L5 dermatome.
+56. MRI confirms lumbar disc herniation compressing the L5 nerve root.
+57. Patient presents with sudden onset dyspnea and pleuritic chest pain.
+58. CT pulmonary angiography reveals a pulmonary embolism in the right main pulmonary artery.
+59. Patient reports recurrent urinary tract infections.
+60. Urinalysis shows pyuria and bacteriuria.
+61. Renal ultrasound demonstrates bilateral hydronephrosis.
+62. Patient presents with a productive cough and hemoptysis.
+63. Chest X-ray shows cavitary lesions consistent with tuberculosis.
+64. Patient complains of pain and stiffness in the hands and feet.
+65. Rheumatoid factor is positive with elevated anti-CCP antibodies.
+66. X-ray reveals erosive changes and joint space narrowing in the hands.
+67. Patient presents with epigastric pain and melena.
+68. Upper endoscopy reveals a duodenal ulcer with active bleeding.
+69. Patient reports muscle weakness and easy fatigability.
+70. Creatine kinase levels are elevated, suggestive of myositis.
+71. EMG shows myopathic changes consistent with polymyositis.
+72. Patient presents with recurrent fevers and night sweats.
+73. Tuberculin skin test is positive with a 20 mm induration.
+74. Chest X-ray shows bilateral upper lobe infiltrates.
+75. Patient complains of burning sensation and paresthesias in the feet.
+76. Nerve conduction studies reveal peripheral neuropathy.
+77. Patient presents with a history of multiple syncopal episodes.
+78. Holter monitor shows episodes of sinus arrest.
+79. Patient reports pain and stiffness in the shoulders and hips.
+80. ESR and CRP levels are elevated, suggestive of polymyalgia rheumatica.
+81. MRI of the brain shows multiple enhancing lesions.
+82. Lumbar puncture reveals oligoclonal bands in the cerebrospinal fluid.
+83. Patient presents with recurrent oral ulcers and genital lesions.
+84. Serologic testing is positive for herpes simplex virus type 2.
+85. Patient complains of difficulty initiating and maintaining sleep.
+86. Polysomnography demonstrates frequent awakenings and reduced REM sleep.
+87. Patient presents with abdominal discomfort and bloating.
+88. Colonoscopy reveals skip lesions and aphthous ulcers in the terminal ileum.
+89. Patient reports gradual onset dysphagia to solids and liquids.
+90. Barium swallow shows a dilated esophagus with tertiary contractions.
+91. Patient presents with decreased appetite and unintentional weight loss.
+92. CBC reveals microcytic hypochromic anemia with a low ferritin level.
+93. Patient complains of pain and stiffness in the temporomandibular joint.
+94. Examination reveals crepitus and limited range of motion in the jaw.
+95. Patient reports recurrent headaches associated with visual disturbances.
+96. Ophthalmologic exam shows optic disc swelling and visual field defects.
+97. Patient presents with swelling and tenderness in the calf.
+98. Doppler ultrasound confirms deep vein thrombosis in the left lower extremity.
+99. Patient complains of abdominal cramping and diarrhea after dairy consumption.
+100. Lactose intolerance is suspected and confirmed with a hydrogen breath test.
+101. Patient reports chronic cough with white sputum production.
+102. Pulmonary function tests reveal obstructive pattern consistent with asthma.
+103. Patient presents with a history of recurrent genital lesions.
+104. PCR testing confirms genital herpes simplex virus infection.
+105. Patient complains of pain and stiffness in the neck and shoulders.
+106. Examination reveals reduced range of motion and muscle tenderness.
+107. Patient reports difficulty concentrating and memory lapses.
+108. Mini-Mental State Examination score is 22/30, indicating cognitive impairment.
